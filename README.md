@@ -7,6 +7,8 @@ I am a software engineer and engineering leader with a keen interest in game the
 My [career](https://pradyot.adavi.in/cv/), spanning a decade, has been with [Flipkart](https://www.flipkartcareers.com/#!/) in the Fintech and Payments domain. Currently, I am an Senior Engineering Manager responsible for the Affordability, Risk and Fraud engineering team.
 
 I hold a Master's degree (M.Tech in Information Technology, 2014) from [IIIT Bangalore](https://www.iiitb.ac.in/). I completed my schooling in [Dandeli](https://en.wikipedia.org/wiki/Dandeli), a small town nested in the Western Ghats. While I am a native of Kachapur village in Raichur District, [Bengaluru](https://en.wikipedia.org/wiki/Bengaluru) has been my second home since 2007.
+
+#### Life's Motto - [To be antifragile](https://en.wikipedia.org/wiki/Antifragility)
 <!--
 **pradyothadavi/pradyothadavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
